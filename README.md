@@ -15,10 +15,11 @@ https:
 
 Maven dependency 
 ```xml
+
 <dependency>
-  <groupId>de.htw-berlin.fb4.ossd</groupId>
+ <groupId>de.htw-berlin.fb4.ossd</groupId>
   <artifactId>collaborative-prose</artifactId>
-  <version>1.0.0</version>
+  <version>1.0-SNAPSHOT</version>
 </dependency>
 
 ## Features
